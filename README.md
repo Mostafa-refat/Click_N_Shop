@@ -1,16 +1,17 @@
-# click_n_shop
+# Click N Shop
+Simple E-Commerce (Flutter App) using Cubit statemanagement and Dio packages.
 
-A new Flutter project.
+## Features
 
-## Getting Started
+User Authentication: Login, Register and manage user profiles.
+Product Browsing: Browse through various product categories .
+Search Functionality: Search for products by name .
+Wishlist: Save favorite products for future purchases.
 
-This project is a starting point for a Flutter application.
+## Used Packages:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [bloc](https://pub.dev/packages/bloc)
+- [dio](https://pub.dev/packages/dio)
+- [webview_flutter](https://pub.dev/packages/webview_flutter)
+- [shared_preferences](https://pub.dev/packages/shared_preferences)
