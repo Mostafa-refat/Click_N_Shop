@@ -3,10 +3,14 @@ Simple E-Commerce (Flutter App) using Cubit statemanagement and Dio packages.
 
 ## Features
 
-User Authentication: Login, Register and manage user profiles.   
-Product Browsing: Browse through various product categories.   
-Search Functionality: Search for products by name.   
-Wishlist: Save favorite products for future purchases.   
+### User Authentication : 
+        Login, Register and manage user profiles.   
+### Product Browsing : 
+        Browse through various product categories.   
+### Search Functionality : 
+        Search for products by name.   
+### Wishlist : 
+        Save favorite products for future purchases.   
 
 ## Used Packages:
 
